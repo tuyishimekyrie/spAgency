@@ -4,7 +4,7 @@
 ![SP Agency Website](./images/desktop.PNG)
 
 ## Overview 📄
-Welcome to the SP Agency Website repository! This project is designed to showcase the online presence of an events planning group, offering a sleek and modern interface to attract potential clients and provide detailed information about services, past events, and contact information.
+Welcome  to the SP Agency Website repository! This project is designed to showcase the online presence of an events planning group, offering a sleek and modern interface to attract potential clients and provide detailed information about services, past events, and contact information.
 
 ## Features ✨
 - **Responsive Design:** Optimized for all devices.
