@@ -26,21 +26,12 @@ To get a local copy up and running, follow these steps:
     cd sp-agency-website
     ```
 
-3. **Install dependencies:**
-    ```bash
-    npm install
-    ```
+3. **Go Live:**
 
-4. **Start the development server:**
-    ```bash
-    npm start
-    ```
 
 ## Usage 🚀
-Once the development server is running, open your browser and navigate to `http://localhost:3000` to view the website.
+Once the development server is running, open your browser and navigate to `http://localhost:5500` to view the website.
 
-## Contributing 🤝
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project.
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
@@ -52,5 +43,5 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 📧
-- **Your Name:** [yourname@example.com](mailto:yourname@example.com)
-- **Project Link:** [https://github.com/yourusername/sp-agency-website](https://github.com/yourusername/sp-agency-website)
+- **Your Name:** [tuyishimekyrie@gmail.com](mailto:tuyishimekyrie@gmail.com)
+- **Project Link:** [https://github.com/tuyishimekyrie/sp-agency-website](https://github.com/tuyishimekyrie/sp-agency-website)
