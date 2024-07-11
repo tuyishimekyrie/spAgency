@@ -11,7 +11,7 @@ Welcome  to the SP Agency Website repository! This project is designed to showca
 - **Modern UI:** A clean and professional look.
 - **Event Showcase:** Highlight past and upcoming events.
 - **Contact Form:** Easy communication for potential clients.
-- **Gallery:** Visual showcase of events.
+- **Gallery:** Visual showcase of events(wedding).
 
 ## Installation 🛠️
 To get a local copy up and running, follow these steps:
